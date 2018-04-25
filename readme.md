@@ -14,6 +14,6 @@ Download the following jar files
 Use the ./compile.bash script.
 
 # Run
-If you haven't downloaded the pages from rotten tomatores, you need to do that.  I have added a 5 second delay between requests as to not trigger DOS or anything.  I still recommend using a VPN when doing this just to be on the safe side.
+If you haven't downloaded the pages from rotten tomatoes, you need to do that.  I have added a 5 second delay between requests as to not trigger DOS or anything.  I still recommend using a VPN when doing this just to be on the safe side.
 
-
+./run.bash
